@@ -2,7 +2,7 @@
 
 A fun, interactive birthday celebration app designed specifically for an 8-year-old's special day!
 
-**[click here to demo](https://mrfeixiang.github.io/daughter-birthday-apph**
+**[click here to demo](https://mrfeixiang.github.io/daughter-birthday-app)**
 
 ## Features
 
